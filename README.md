@@ -1,10 +1,7 @@
-
 # Letter you
 
 ![Node.js CI](https://github.com/dunky11/react-saas-template/workflows/Node.js%20CI/badge.svg)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
-
-[<img src="/.github/gifs/showcase.gif">](https://reactsaastemplate.com "Go to demo website")
 
 
 ## Build With
