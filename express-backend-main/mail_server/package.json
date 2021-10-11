@@ -1,0 +1,17 @@
+{
+  "name": "mail_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "TaskServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon --watch TaskServer.js ",
+    "start": "node ./TaskServer.js "
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^1.8.2",
+    "cors": "^2.8.5"
+  }
+}

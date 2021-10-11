@@ -1,0 +1,11 @@
+./ -
+	taskBackup -
+		backup.json 	// backup the tasks in the queue every 10 seconds or every updating
+	
+	Heap.js		// priority-queue for this project
+	
+	Mail.js 	// data and method of a mail
+
+	PostalService.js 	// containing funtions to send mails, cancel mails, ...
+
+	TaskServer.js		// a server to handle the requests
